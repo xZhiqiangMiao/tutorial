@@ -1,5 +1,16 @@
 myfile.txdfasdfsdafsdfsdfsdfsdf
 :aw
+
 tコマンド
 add 変更をインデックスに登録する
 commit インデックスの状態を記録するa
+
+
+ササルでもわかるGitコマンド
+add 変更をインデックスに登録する
+pull リモートリポジトリの内容を取得するルでもわかるGitコマンド
+add 変更をインデックスに登録する
+pull リモートリポジトリの内容を取得する
+
+aa
+
