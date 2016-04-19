@@ -1,3 +1,5 @@
 myfile.txdfasdfsdafsdfsdfsdfsdf
 :aw
-aa
+tコマンド
+add 変更をインデックスに登録する
+commit インデックスの状態を記録するa
